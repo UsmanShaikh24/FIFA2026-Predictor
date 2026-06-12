@@ -106,8 +106,7 @@ FIFA2026-Predictor/
 ├── models/                       # Trained models
 │   └── worldcup_xgb.pkl         # XGBoost classifier (trained)
 │
-├── notebooks/                    # Jupyter notebooks
-│   └── [exploration notebooks]
+|
 │
 └── archive/                      # Previous versions
     ├── train.py
